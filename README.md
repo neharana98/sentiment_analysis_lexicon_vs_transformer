@@ -4,7 +4,7 @@
 With the surge in user-generated content, analysing sentiments and emotions from text has become a key task in NLP. Two popular approaches for this — Lexicon-based and Transformer-based models — each offering distinct advantages. This project explores both, comparing their effectiveness in extracting sentiment from social media-style text.
 
 **Objective**:
-To compare the performance of lexicon-based models with that of a transformer-based model (BERT), for sentiment analysis.
+To compare the performance of lexicon-based models with a transformer-based model (BERT) for sentiment and emotion analysis, particularly under structured and noisy text conditions.
 
 **Dataset**:
 Two fabricated datasets were created with GenAI.
